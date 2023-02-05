@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="发邮件软件:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/_jar</output-path>
+    <root id="archive" name="发邮件软件.jar">
+      <element id="module-output" name="发邮件软件" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/javax.mail.jar" path-in-jar="/" />
+      <element id="library" level="project" name="javax.mail" />
+    </root>
+  </artifact>
+</component>
